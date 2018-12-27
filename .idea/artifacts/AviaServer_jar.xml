@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AviaServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AviaServer_jar</output-path>
+    <root id="archive" name="AviaServer.jar">
+      <element id="module-output" name="AviaServer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
